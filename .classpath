@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_45">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JSF 1.2 (Apache Myfaces JSF Core-1.2 API 1.2.9)">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+			<attribute name="owner.project.facets" value="jst.jsf"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/jar/axis.jar"/>
+	<classpathentry kind="lib" path="D:/jar/classes12.jar"/>
+	<classpathentry kind="lib" path="D:/jar/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="D:/jar/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/jar/commons-io-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/jar/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/jar/javaee.jar"/>
+	<classpathentry kind="lib" path="D:/jar/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="D:/jar/jboss-faces.jar"/>
+	<classpathentry kind="lib" path="D:/jar/jsf-api.jar"/>
+	<classpathentry kind="lib" path="D:/jar/jsf-impl.jar"/>
+	<classpathentry kind="lib" path="D:/jar/jstl.jar"/>
+	<classpathentry kind="lib" path="D:/jar/mysql-connector-java-3.1.12.jar"/>
+	<classpathentry kind="lib" path="D:/jar/saaj.jar"/>
+	<classpathentry kind="lib" path="D:/jar/toplink-essentials.jar"/>
+	<classpathentry kind="lib" path="D:/jar/toplink-essentials-agent.jar"/>
+	<classpathentry kind="lib" path="D:/jar/wsdl4j.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
